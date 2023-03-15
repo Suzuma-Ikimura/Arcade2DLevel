@@ -18,15 +18,15 @@ The program code is divided into several scripts, allowing you to quickly custom
 
 Here I will present some screenshots from the game, in the future I will pour video, so you can see the Gameplay!
 <p align="center"> Main Menu: </p>
-<img src="https://i.ibb.co/HgNmXXb/MainMenu.png" width="768">
+<img src="https://i.ibb.co/HgNmXXb/MainMenu.png" width="1080">
 <p align="center"> Select Characters: </p>
-<img src="https://i.ibb.co/hBpTy0Q/Select-Menu.png" width="768">
-<img src="https://i.ibb.co/8stxctd/Select-Menu2.png" width="768">
+<img src="https://i.ibb.co/hBpTy0Q/Select-Menu.png" width="1080">
+<img src="https://i.ibb.co/8stxctd/Select-Menu2.png" width="1080">
 <p align="center"> Launched a level with a characters. </p>
-<img src="https://i.ibb.co/vQJF9pB/Select-Bow-Man.png" width="768">
-<img src="https://i.ibb.co/Kq51yd6/Select-Sword-Man.png" width="768">
+<img src="https://i.ibb.co/vQJF9pB/Select-Bow-Man.png" width="1080">
+<img src="https://i.ibb.co/Kq51yd6/Select-Sword-Man.png" width="1080">
 <p align="center"> Pause menu. </p>
-<img src="https://i.ibb.co/tqs7S09/Pause-Menu.png" width="768">
+<img src="https://i.ibb.co/tqs7S09/Pause-Menu.png" width="1080">
 
 
 
