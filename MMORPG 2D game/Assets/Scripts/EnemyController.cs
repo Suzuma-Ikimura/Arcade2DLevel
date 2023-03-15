@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class EnemyController : MonoBehaviour
+public class EnemyController : RespawnZone
 {
     protected Vector3 dir;
     private SpriteRenderer sprite;
@@ -20,6 +20,4 @@ public class EnemyController : MonoBehaviour
         }
 
     }
-
-
 }

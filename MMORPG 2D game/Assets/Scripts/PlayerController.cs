@@ -29,7 +29,17 @@ public class PlayerController : MonoBehaviour
         Move();
         Jump();
         Fall();
+        //Fight();
     }
+
+/*    private void Fight()
+    {
+        if (Input.GetMouseButton(0)) { 
+            anim.isFight= true;              
+        }
+        else
+            anim.isFight= false;
+    }*/
 
     private void Move()
     {

@@ -14,8 +14,10 @@ public class PauseMenu : MonoBehaviour
         {
             if (PauseGame)
                 Resume();
+            
             else
                 Pause();
+
         }
     }
 
@@ -24,6 +26,7 @@ public class PauseMenu : MonoBehaviour
         PauseGameMenu.SetActive(false);
         Time.timeScale = 1f;
         PauseGame = false;
+        Cursor.visible = false;
     }
 
     public void Pause()
@@ -31,6 +34,8 @@ public class PauseMenu : MonoBehaviour
         PauseGameMenu.SetActive(true);
         Time.timeScale = 0f;
         PauseGame= true;
+        Cursor.visible = true;
+
     }
 
     public void LoadMenu()

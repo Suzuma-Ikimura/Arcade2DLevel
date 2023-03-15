@@ -9,6 +9,8 @@ public class CharacterAnimator : MonoBehaviour
     public bool isMoveBow { private get; set; }
     public bool isJumpBow { private get; set; }
     public bool _isFlyingBow { private get; set; }
+    public bool isFight { private get; set; }
+
     private Animator _animator;
 
     private void Start()
@@ -22,6 +24,8 @@ public class CharacterAnimator : MonoBehaviour
         _animator.SetBool("IsFlying", IsFlying);
         _animator.SetBool("jumpA", jumpA);
         _animator.SetBool("isDie", isDie);
+        _animator.SetBool("isFight", isFight);
+
 
         _animator.SetBool("isMoveBow", isMoveBow);
         _animator.SetBool("isJumpBow", isJumpBow);

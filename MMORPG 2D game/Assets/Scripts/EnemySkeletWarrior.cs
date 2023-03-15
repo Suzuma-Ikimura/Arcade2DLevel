@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class EnemySkeletWarrior : EnemyController
@@ -27,4 +28,13 @@ public class EnemySkeletWarrior : EnemyController
             _isMove= false;
         anim.isMove = _isMove;
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject == player)
+        {
+            player.transform.position = respawn.transform.position;
+        }
+    }
+
 }
