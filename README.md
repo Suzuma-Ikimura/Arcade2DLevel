@@ -14,19 +14,19 @@ This little level was designed to demonstrate C# programming skills in Unity 3D.
 The main tasks that were implemented: the main menu, choosing between two characters, controlling the character, reacting to traps and moving to the original position, reacting to traps, connecting animations, moving the enemy creature on a given trajectory from obstacle to obstacle.
 The program code is divided into several scripts, allowing you to quickly customize or change it.
 
-## Photo
+## DESCRIPTION AND PHOTO
 
 Here I will present some screenshots from the game, in the future I will pour video, so you can see the Gameplay!
 <p align="center"> Main Menu: </p>
-<img src="https://i.ibb.co/KVq3pQY/MainMenu.png" width="720">
+<img src="https://i.ibb.co/KVq3pQY/MainMenu.png" width="726">
 <p align="center"> Select Characters: </p>
-<img src="https://i.ibb.co/pLJ43KJ/Select-Menu.png" width="720">
-<img src="https://i.ibb.co/rGw7Y4c/Select-Menu2.png" width="720">
+<img src="https://i.ibb.co/pLJ43KJ/Select-Menu.png" width="726">
+<img src="https://i.ibb.co/rGw7Y4c/Select-Menu2.png" width="726">
 <p align="center"> Launched a level with a characters. </p>
-<img src="https://i.ibb.co/NK0tfxC/Select-Bow-Man.png" width="720">
-<img src="https://i.ibb.co/S0jPCMM/Select-Sword-Man.png" width="720">
+<img src="https://i.ibb.co/NK0tfxC/Select-Bow-Man.png" width="726">
+<img src="https://i.ibb.co/S0jPCMM/Select-Sword-Man.png" width="726">
 <p align="center"> Pause menu. </p>
-<img src="https://i.ibb.co/MNjhNDL/Pause-Menu.png"720">
+<img src="https://i.ibb.co/MNjhNDL/Pause-Menu.png"726">
 
 
 
