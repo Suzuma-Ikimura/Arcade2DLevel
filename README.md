@@ -23,7 +23,7 @@ Here I will present some screenshots from the game, in the future I will pour vi
 <img src="https://i.ibb.co/pLJ43KJ/Select-Menu.png" width="726">
 <img src="https://i.ibb.co/rGw7Y4c/Select-Menu2.png" width="726">
 <p align="center"> Launched a level with a characters. </p>
-<img src="https://i.ibb.co/NK0tfxC/Select-Bow-Man.png" width="726">
+<img src="https://i.ibb.co/3rYxy4v/Select-Bow-Man.png" width="726">
 <img src="https://i.ibb.co/S0jPCMM/Select-Sword-Man.png" width="726">
 <p align="center"> Pause menu. </p>
 <img src="https://i.ibb.co/MNjhNDL/Pause-Menu.png"726">
