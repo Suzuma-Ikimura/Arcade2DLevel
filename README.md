@@ -28,8 +28,9 @@ Here I will present some screenshots from the game, in the future I will pour vi
 <p align="center"> Pause menu. </p>
 <img src="https://i.ibb.co/MNjhNDL/Pause-Menu.png"726">
 
+## Gameplay - 2DLEVEL
 
-
+Video demonstration - https://youtu.be/uqaD853PUT0
 
 ## Developers
 
