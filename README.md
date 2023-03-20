@@ -36,4 +36,7 @@ Video demonstration - https://youtu.be/uqaD853PUT0
 
 - [Suzuma (Serhii)](https://github.com/Suzuma-Ikimura)
 
-##
+## MATERIALS
+
+All visual materials of this project were downloaded from the Internet and should not be distributed for a fee.
+This project is for viewing purposes only and is not intended to be sold or used for commercial purposes.
